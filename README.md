@@ -1,28 +1,79 @@
-<!-- ⚡ Advanced GitHub Profile README for MD Nawab Ali Khan (nakhandev) ⚡ -->
+<!-- ⚡ Enhanced GitHub Profile README for MD Nawab Ali Khan (nakhandev) ⚡ -->
 
-<!-- Profile Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=200&section=header&text=MD%20NAWAB%20ALI%20KHAN%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=230&section=header&text=MD%20NAWAB%20ALI%20KHAN%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h3 align="center">💻 Java Backend Developer | 🌱 Open Source Contributor | 📘 Lifelong Learner</h3>
+<h3 align="center">💻 Java Backend Developer | 🌱 Open Source Enthusiast | 🧠 Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B8BBE&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Backend+Engineer;🌱+Mastering+Spring+Boot+%26+REST+APIs;🤝+Open+Source+Contributor;⚙️+Building+Scalable+Backend+Systems;🧠+Learning+Every+Single+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B8BBE&center=true&vCenter=true&width=700&lines=🚀+Backend+Engineer+in+the+Making;🌱+Mastering+Spring+Boot+%26+REST+APIs;🤝+Open+Source+Contributor;⚙️+Building+Scalable+Backend+Systems;🧩+Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 **Recent Computer Science Graduate** passionate about **Java**, **Backend Development**, and **APIs**.  
-💡 Skilled in **Spring Boot**, **MySQL**, and **RESTful Architecture**.  
-🧰 Working with tools like **Git**, **Postman**, **Maven**, and **IntelliJ IDEA**.  
-🌱 Constantly learning about **clean code**, **testing**, and **software scalability**.  
-🤝 Looking to collaborate on **open-source backend projects**.  
-💬 Motto: *“Learn, Build, Improve, Repeat.”*
+💡 **Java Backend Developer** specializing in **Spring Boot**, **REST APIs**, and **SQL databases**, with a strong focus on clean, scalable, and maintainable code.  
+
+🚀 Experienced in designing and implementing **microservices**, integrating APIs, and optimizing backend performance for real-world applications.  
+
+🧠 Skilled in **Spring Security**, **JUnit**, **Mockito**, **Git**, and **CI/CD workflows**, with a growing interest in **cloud deployment** and **DevOps fundamentals**.  
+
+🤝 Passionate about **open-source contribution**, continuous learning, and building reliable backend systems that empower seamless user experiences.  
+
+> *Committed to writing clean code, learning continuously, and delivering impact through technology.*
+
 
 ---
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-Journey-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+</p>
+
+🕒 **Timeline of My Learning Journey**
+
+---
+
+### 🏫 **Sacred Heart School, Sitamarhi**  
+🎓 *Matriculation (10th)*  
+📆 *Completed in 2016*  
+💡 Built a strong foundation in academics, discipline, and analytical thinking.
+
+---
+
+### ⏳ **Exploration & Self-Learning Phase (2016–2018)**  
+🧠 *Focused on personal growth, foundational computing, and career direction.*  
+💬 Explored basic programming, problem-solving, and the fundamentals of computer systems.
+
+---
+
+### 💻 **Diploma in Computer Science & Engineering**  
+🏛️ *Integral University, Lucknow* 
+📆 *2018 – 2021*  
+⚙️ Learned core programming concepts, data structures, and software fundamentals.  
+🏆 Developed mini-projects and gained hands-on experience in backend development.
+
+---
+
+### 🎓 **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
+🏛️ *Integral University, Lucknow*  
+📆 *2021 – 2024*  
+🧩 Specialized in **Java**, **Spring Boot**, **Databases**, and **Backend Development**.  
+🚀 Worked on real-world projects and explored **API design**, **Spring Security**, and **software architecture**.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning%20Never%20Stops-4B8BBE?style=for-the-badge&logo=readme&logoColor=white" />
+</p>
+
+> 💡 *Every phase of my academic path contributed to building a stronger foundation — from core learning to real-world problem solving.*
+
+
 
 ## ⚙️ Tech Arsenal
 
@@ -61,27 +112,27 @@
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-🛠️ A collection of my growing backend development projects:
+🧩 *Crafting real-world backend projects with clean architecture and scalability in mind.*
 
-| 🚀 Project | ⚙️ Tech Stack | 📜 Description |
+| 🚀 Project | 🧠 Description | ⚙️ Tech Stack |
 |-------------|----------------|----------------|
-| [🎓 Student Management System](https://github.com/nakhandev/student-management) | Java, Spring Boot, MySQL | CRUD-based system for managing student records. |
-| [🔐 Login & Registration API](https://github.com/nakhandev/login-api) | Java, Spring Boot | RESTful API with validation and authentication. |
-| [🛒 Simple E-commerce Cart](https://github.com/nakhandev/ecommerce-cart) | Java, Spring MVC | Implements cart operations with layered architecture. |
+| [🎓 **Student Management System**](https://github.com/nakhandev/student-management) | CRUD-based REST API for managing student records. | Java, Spring Boot, MySQL |
+| [🔐 **Login & Registration API**](https://github.com/nakhandev/login-api) | Secure user registration & authentication with validation. | Java, Spring Boot |
+| [🛒 **E-commerce Cart System**](https://github.com/nakhandev/ecommerce-cart) | Implements cart operations with layered architecture. | Java, Spring MVC |
 
-> 🧩 *More coming soon — building daily, one commit at a time.*
+> 🛠 *Always building, learning, and contributing — one commit at a time.*
 
 ---
 
-## 📚 Currently Exploring
+## 🧩 Currently Exploring
 
-- ⚙️ **Spring Boot (Core, Security, JPA)**  
+- 🧱 **Spring Boot (Core, Security, JPA)**  
 - 🧪 **Testing with JUnit & Mockito**  
-- 🌐 **RESTful API Design & Documentation (Swagger, Postman)**  
-- 🔄 **GitHub Workflow & CI/CD Basics**  
-- 🧼 **Writing Clean, Readable, and Maintainable Code**
+- 🌐 **RESTful API Design (Swagger, Postman)**  
+- 🔄 **GitHub Actions & CI/CD Pipelines**  
+- 🧼 **Clean Code, SOLID Principles & Scalability**
 
 ---
 
@@ -107,10 +158,10 @@
 
 ---
 
-## 🌟 Favorite Quote
+## 🌟 Quote That Inspires Me
 
 > *“The expert in anything was once a beginner.”*  
-> — Helen Hayes
+> — **Helen Hayes**
 
 ---
 
@@ -118,7 +169,7 @@
   <img src="https://komarev.com/ghpvc/?username=nakhandev&label=Profile%20Views&color=4B8BBE&style=for-the-badge" />
 </p>
 
-<p align="center">✨ Thanks for visiting! Let’s learn, build, and grow together 🚀</p>
+<p align="center">✨ Thanks for stopping by! Let’s code, learn, and grow together 🚀</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=120&section=footer" />
