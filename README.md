@@ -1,6 +1,6 @@
-<!-- ⚡ Enhanced GitHub Profile README for MD Nawab Ali Khan (nakhandev) ⚡ -->
+<!-- ⚡ Ultimate GitHub Profile README for MD Nawab Ali Khan (nakhandev) ⚡ -->
 
-<!-- Header Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=230&section=header&text=MD%20NAWAB%20ALI%20KHAN%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -8,7 +8,7 @@
 <h3 align="center">💻 Java Backend Developer | 🌱 Open Source Enthusiast | 🧠 Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B8BBE&center=true&vCenter=true&width=700&lines=🚀+Backend+Engineer+in+the+Making;🌱+Mastering+Spring+Boot+%26+REST+APIs;🤝+Open+Source+Contributor;⚙️+Building+Scalable+Backend+Systems;🧩+Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B8BBE&center=true&vCenter=true&width=750&lines=☕+Building+Scalable+Backends+with+Java+%26+Spring+Boot;🚀+Transforming+Ideas+into+Reliable+APIs;🌱+Growing+Every+Day+Through+Code+and+Community!" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,6 @@
 🤝 Passionate about **open-source contribution**, continuous learning, and building reliable backend systems that empower seamless user experiences.  
 
 > *Committed to writing clean code, learning continuously, and delivering impact through technology.*
-
 
 ---
 
@@ -52,7 +51,7 @@
 ---
 
 ### 💻 **Diploma in Computer Science & Engineering**  
-🏛️ *Integral University, Lucknow* 
+🏛️ *State Board of Technical Education*  
 📆 *2018 – 2021*  
 ⚙️ Learned core programming concepts, data structures, and software fundamentals.  
 🏆 Developed mini-projects and gained hands-on experience in backend development.
@@ -73,21 +72,39 @@
 
 > 💡 *Every phase of my academic path contributed to building a stronger foundation — from core learning to real-world problem solving.*
 
-
+---
 
 ## ⚙️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,git,github,postman,linux,intellij&theme=dark" />
-</p>
+**Languages:**  
+☕ Java • SQL  
+
+**Frameworks & Libraries:**  
+🌿 Spring Boot • Hibernate • JUnit • Mockito  
+
+**Databases:**  
+🗄️ MySQL • H2  
+
+**Tools & Platforms:**  
+🔧 Git • GitHub • Postman • Maven • NetBeans • Linux  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,git,github,postman,linux,netbeans&theme=dark" />
 </p>
+
+---
+
+## 💼 Featured Projects
+
+🧩 *Crafting real-world backend projects with clean architecture and scalability in mind.*
+
+| 🚀 Project | 🧠 Description | ⚙️ Tech Stack |
+|-------------|----------------|----------------|
+| [🎓 **Student Management System**](https://github.com/nakhandev/student-management) | CRUD-based REST API for managing student records. | Java, Spring Boot, MySQL |
+| [🔐 **Login & Registration API**](https://github.com/nakhandev/login-api) | Secure user registration & authentication with validation. | Java, Spring Boot |
+| [🛒 **E-commerce Cart System**](https://github.com/nakhandev/ecommerce-cart) | Implements cart operations with layered architecture. | Java, Spring MVC |
+
+> 🧩 *Always building, learning, and contributing — one commit at a time.*
 
 ---
 
@@ -112,39 +129,37 @@
 
 ---
 
-## 💼 Featured Projects
-
-🧩 *Crafting real-world backend projects with clean architecture and scalability in mind.*
-
-| 🚀 Project | 🧠 Description | ⚙️ Tech Stack |
-|-------------|----------------|----------------|
-| [🎓 **Student Management System**](https://github.com/nakhandev/student-management) | CRUD-based REST API for managing student records. | Java, Spring Boot, MySQL |
-| [🔐 **Login & Registration API**](https://github.com/nakhandev/login-api) | Secure user registration & authentication with validation. | Java, Spring Boot |
-| [🛒 **E-commerce Cart System**](https://github.com/nakhandev/ecommerce-cart) | Implements cart operations with layered architecture. | Java, Spring MVC |
-
-> 🛠 *Always building, learning, and contributing — one commit at a time.*
-
----
-
-## 🧩 Currently Exploring
-
-- 🧱 **Spring Boot (Core, Security, JPA)**  
-- 🧪 **Testing with JUnit & Mockito**  
-- 🌐 **RESTful API Design (Swagger, Postman)**  
-- 🔄 **GitHub Actions & CI/CD Pipelines**  
-- 🧼 **Clean Code, SOLID Principles & Scalability**
-
----
-
-## 🧰 Developer Toolkit
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=intellijidea" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-0078d7?style=flat-square&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/API-Postman-orange?style=flat-square&logo=postman" />
-  <img src="https://img.shields.io/badge/Build-Maven-1565C0?style=flat-square&logo=apachemaven" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05033?style=flat-square&logo=git" />
+  <img src="https://raw.githubusercontent.com/nakhandev/nakhandev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+> 🐍 *Watch the snake eat up my GitHub contributions!*
+
+---
+
+## 🚀 Current Focus
+- Mastering **Spring Security & JWT Authentication**  
+- Contributing to **open-source backend projects**  
+- Exploring **Microservices Architecture & CI/CD**  
+- Preparing for **Java Developer Interviews & DSA Practice**
+
+---
+
+## 🧠 My Coding Principles
+- 🧩 Write clean, readable, and testable code  
+- 🏗 Design before coding  
+- 🔄 Refactor often and learn continuously  
+- 💬 Collaborate, share, and grow together  
+
+---
+
+## 🌟 Fun Facts
+- 🔥 Written over **100,000+ lines of Java code**  
+- ☕ Coffee + Code = My debugging ritual  
+- 💡 Favorite topic: **Spring Boot & RESTful APIs**  
+- 🧠 Always exploring how systems communicate and scale  
 
 ---
 
@@ -154,6 +169,14 @@
   <a href="https://linkedin.com/in/nakhandev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nakhandev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/nakhandev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🏆 Developer Badges
+
+<p align="center">
+  <a href="https://holopin.io/@nakhandev"><img src="https://holopin.me/nakhandev" alt="@nakhandev's Holopin Badges"/></a>
 </p>
 
 ---
@@ -169,7 +192,9 @@
   <img src="https://komarev.com/ghpvc/?username=nakhandev&label=Profile%20Views&color=4B8BBE&style=for-the-badge" />
 </p>
 
-<p align="center">✨ Thanks for stopping by! Let’s code, learn, and grow together 🚀</p>
+<p align="center">
+  ✨ Thanks for visiting! Let’s learn, build, and grow together 🚀
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=120&section=footer" />
