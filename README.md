@@ -11,6 +11,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B8BBE&center=true&vCenter=true&width=750&lines=☕+Building+Scalable+Backends+with+Java+%26+Spring+Boot;🚀+Transforming+Ideas+into+Reliable+APIs;🌱+Growing+Every+Day+Through+Code+and+Community!" alt="Typing SVG" />
 </p>
 
+<h2 align="center">🌐 Live Site</h2>
+<p align="center">
+  <a href="https://nakhandev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-4B8BBE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+
+
+
 ---
 
 ## 🧠 About Me
