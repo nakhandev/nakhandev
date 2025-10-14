@@ -141,9 +141,9 @@
 
 ## 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nakhandev/nakhandev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 > 🐍 *Watch the snake eat up my GitHub contributions!*
 
