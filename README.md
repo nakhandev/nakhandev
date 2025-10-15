@@ -86,18 +86,6 @@
 
 ## ⚙️ Tech Stack
 
-**Languages:**  
-☕ Java • SQL  
-
-**Frameworks & Libraries:**  
-🌿 Spring Boot • Hibernate • JUnit  
-
-**Databases:**  
-🗄️ MySQL • H2  
-
-**Tools & Platforms:**  
-🔧 Git • GitHub • Postman • Maven • VS Code • Linux  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,mysql,maven,hibernate,git,github,postman,vscode,linux&theme=dark" />
 </p>
