@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=230&section=header&text=MD%20NAWAB%20ALI%20KHAN%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nakhandev&label=Profile%20Views&color=4B8BBE&style=for-the-badge" />
+</p>
 
 <h3 align="center">💻 Java Backend Developer | 🌱 Open Source Enthusiast | 🧠 Continuous Learner</h3>
 
@@ -190,10 +193,6 @@
 </div>
 
 > 🐍 *Watch the snake eat up my GitHub contributions!*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakhandev&label=Profile%20Views&color=4B8BBE&style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=120&section=footer" />
