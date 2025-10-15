@@ -21,9 +21,6 @@
   </a>
 </p>
 
-
-
-
 ---
 
 ## 🧠 About Me
@@ -40,52 +37,48 @@
 
 ---
 
-## 🎓 Education
+<p align="center"> <img src="https://img.shields.io/badge/My%20Learning%20Roadmap-6A5ACD?style=for-the-badge&logo=roadmap.sh&logoColor=white" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-Journey-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-</p>
+⚡ A journey through curiosity, creativity, and code — evolving from foundation to innovation.
 
-🕒 **Timeline of My Learning Journey**
+<p align="center"> <b>📘 → 💻 → 🎓 → 🚀</b><br> <sub><i>Foundation → Exploration → Engineering → Advancement</i></sub> </p>
+<p align="center"> <img src="https://img.shields.io/badge/2016-Foundation-blueviolet?style=for-the-badge&logo=school&logoColor=white" /> </p>
+📘 Sacred Heart School, Sitamarhi
 
----
+🎓 Matriculation (10th)
+📆 Completed in 2016
+💡 Built a strong academic base emphasizing discipline, critical thinking, and analytical problem-solving.
 
-### 🏫 **Sacred Heart School, Sitamarhi**  
-🎓 *Matriculation (10th)*  
-📆 *Completed in 2016*  
-💡 Built a strong foundation in academics, discipline, and analytical thinking.
+<p align="center"> <img src="https://img.shields.io/badge/2016–2018-Exploration-orange?style=for-the-badge&logo=hackthebox&logoColor=white" /> </p>
+💻 Exploration & Self-Learning Phase
 
----
+🧠 A phase of discovery and passion for technology.
+💬 Learned basic programming, computer fundamentals, and software logic through tutorials and small experiments.
+🔍 Sparked curiosity to dive deeper into software engineering.
 
-### ⏳ **Exploration & Self-Learning Phase (2016–2018)**  
-🧠 *Focused on personal growth, foundational computing, and career direction.*  
-💬 Explored basic programming, problem-solving, and the fundamentals of computer systems.
+<p align="center"> <img src="https://img.shields.io/badge/2018–2021-Diploma%20in%20CSE-4C8BF5?style=for-the-badge&logo=linuxfoundation&logoColor=white" /> </p>
+🧩 Diploma in Computer Science & Engineering
 
----
+🏛️ State Board of Technical Education
+⚙️ Studied data structures, algorithms, and OOP concepts.
+🏆 Built mini-projects and backend applications using Java, MySQL, and Spring fundamentals.
+📈 Gained real-world insight into how code solves problems.
 
-### 💻 **Diploma in Computer Science & Engineering**  
-🏛️ *State Board of Technical Education*  
-📆 *2018 – 2021*  
-⚙️ Learned core programming concepts, data structures, and software fundamentals.  
-🏆 Developed mini-projects and gained hands-on experience in backend development.
+<p align="center"> <img src="https://img.shields.io/badge/2021–2024-B.Tech%20in%20CSE-00BFAE?style=for-the-badge&logo=graduation-cap&logoColor=white" /> </p>
+🎓 Bachelor of Technology (B.Tech) in Computer Science & Engineering
 
----
+🏛️ Integral University, Lucknow
+💻 Specialized in Java, Spring Boot, and Database Systems.
+🚀 Worked on RESTful APIs, Spring Security, and microservice-based architectures.
+🧠 Focused on clean code, problem-solving, and scalable design.
 
-### 🎓 **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-🏛️ *Integral University, Lucknow*  
-📆 *2021 – 2024*  
-🧩 Specialized in **Java**, **Spring Boot**, **Databases**, and **Backend Development**.  
-🚀 Worked on real-world projects and explored **API design**, **Spring Security**, and **software architecture**.
+<p align="center"> <img src="https://img.shields.io/badge/2024+%20Beyond-Continuous%20Learning-4B8BBE?style=for-the-badge&logo=openai&logoColor=white" /> </p>
+🚀 Continuous Growth & Innovation
 
----
+🌍 Exploring cloud technologies, DevOps, and open-source contributions.
+💬 “Learning never stops — it just evolves.”
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning%20Never%20Stops-4B8BBE?style=for-the-badge&logo=readme&logoColor=white" />
-</p>
-
-> 💡 *Every phase of my academic path contributed to building a stronger foundation — from core learning to real-world problem solving.*
-
----
+<p align="center"> <img src="https://img.shields.io/badge/Learning_Never_Stops-gradient?logo=bookstack&logoColor=white&colorA=4B0082&colorB=00BFFF&style=for-the-badge" /> </p>
 
 ## ⚙️ Tech Stack
 
@@ -132,12 +125,7 @@
 </p>
 
 ---
-
-## 🚀 Current Focus
-- Mastering **Spring Security & JWT Authentication**  
-- Contributing to **open-source backend projects**  
-- Exploring **Microservices Architecture & CI/CD**  
-- Preparing for **Java Developer Interviews & DSA Practice**
+<p align="center"> <img src="https://img.shields.io/badge/Current%20Focus-Java%20%7C%20Spring%20Boot%20%7C%20Microservices-orange?style=for-the-badge&logo=openjdk&logoColor=white"/> </p>
 
 ---
 
@@ -154,6 +142,9 @@
 - ☕ Coffee + Code = My debugging ritual  
 - 💡 Favorite topic: **Spring Boot & RESTful APIs**  
 - 🧠 Always exploring how systems communicate and scale  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Spring+Boot+Enthusiast;Open+Source+Contributor+%7C+Clean+Code+Advocate;Always+Learning+%7C+Always+Building+💻" alt="Typing Animation" />
+</p>
 
 ---
 
