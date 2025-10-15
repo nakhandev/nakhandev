@@ -142,16 +142,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-> 🐍 *Watch the snake eat up my GitHub contributions!*
-
----
-
 ## 🚀 Current Focus
 - Mastering **Spring Security & JWT Authentication**  
 - Contributing to **open-source backend projects**  
@@ -202,11 +192,19 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakhandev&label=Profile%20Views&color=4B8BBE&style=for-the-badge" />
+  ✨ Thanks for visiting! Let’s learn, build, and grow together 🚀
 </p>
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nakhandev/nakhandev/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
+> 🐍 *Watch the snake eat up my GitHub contributions!*
+
 <p align="center">
-  ✨ Thanks for visiting! Let’s learn, build, and grow together 🚀
+  <img src="https://komarev.com/ghpvc/?username=nakhandev&label=Profile%20Views&color=4B8BBE&style=for-the-badge" />
 </p>
 
 <p align="center">
